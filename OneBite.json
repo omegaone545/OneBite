@@ -1,0 +1,20 @@
+{
+  "id": "one_bite",
+  "name": "OneBite",
+  "tagline": "La mejor calculadora",
+  "description": "Una calculadora científica super potente con modo oscuro y gráficos en tiempo real. Ideal para estudiantes y profesionales.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
+  "version": "1.0.5",
+  "downloads": "10K+",
+  "rating": 4.8,
+  "ratingCount": "1,240",
+  "classification": "Para todos",
+  "apkUrl": "https://github.com/omegaone545/OneBite/releases/download/OneBIte/app-release.apk",
+  "category": "Herramientas",
+  "isFeatured": true,
+  "screenshots": [
+    "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto1.png",
+    "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto2.png"
+  ],
+  "whatsNew": "Añadimos nuevas funciones trigonométricas y corregimos errores."
+}
