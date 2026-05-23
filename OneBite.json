@@ -2,7 +2,7 @@
   "id": "one_bite",
   "name": "OneBite",
   "tagline": "Diseñada para usarse con las manos en la masa",
-  "description": "App para crear y compartir tus recetas de cocina con todo el mundo",
+  "description": "OneBite es una app pensada para amantes de la cocina que quieren crear, guardar y compartir recetas de forma rápida y sencilla. Descubre platos de otros usuarios, organiza tus recetas favoritas en carpetas personalizadas y cocina paso a paso con el nuevo modo A Cocinar, ahora con control por voz y lectura automática de instrucciones para que puedas seguir la receta sin tocar el móvil. Diseñada con una interfaz moderna, intuitiva y cómoda para cocinar de verdad.",
   "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
   "version": "1.0.5",
   "downloads": "10K+",
@@ -16,5 +16,5 @@
     "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto1.png",
     "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto2.png"
   ],
-  "whatsNew": "Se añadió el control por voz en el modo A Cocinar"
+  "whatsNew": "• Nuevo modo A Cocinar con voz integrada: la app ahora puede leer los pasos de las recetas automáticamente.\n• Añadido control por voz para avanzar entre pasos sin tocar el dispositivo.\n• Nueva función de carpetas para organizar recetas favoritas de forma personalizada.\n• Mejoras de rendimiento y experiencia de usuario."
 }
