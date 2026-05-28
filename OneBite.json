@@ -2,19 +2,21 @@
   "id": "one_bite",
   "name": "OneBite",
   "tagline": "Diseñada para usarse con las manos en la masa",
-  "description": "OneBite es una app pensada para amantes de la cocina que quieren crear, guardar y compartir recetas de forma rápida y sencilla. Descubre platos de otros usuarios, organiza tus recetas favoritas en carpetas personalizadas y cocina paso a paso con el nuevo modo A Cocinar, ahora con control por voz y lectura automática de instrucciones para que puedas seguir la receta sin tocar el móvil. Diseñada con una interfaz moderna, intuitiva y cómoda para cocinar de verdad.",
-  "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/66bc74e9cfe8361a38eec4f3bd0a0d1f34aaea17/OneBite/Logo/IconoOneBite.png",
+  "description": "OneBite es una app creada para amantes de la cocina que quieren guardar, crear y compartir recetas de forma rápida y sencilla. Descubre platos de otros usuarios, organiza tus recetas favoritas en carpetas personalizadas y cocina paso a paso con el modo Cocinar. Ahora incluye control por voz y lectura automática de instrucciones para seguir las recetas sin tocar el móvil. Todo con una interfaz moderna, intuitiva y pensada para cocinar de verdad.",
+  "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneBite/main/OneBite/Logo/IconoOneBite.png",
   "version": "1.0.5",
   "downloads": "10K+",
   "rating": 4.8,
   "ratingCount": "1,240",
   "classification": "Para todos",
-  "apkUrl": "https://github.com/omegaone545/OneBite/releases/download/OneBIte/app-release.apk",
-  "category": "Herramientas",
+  "apkUrl": "https://github.com/omegaone545/OneBite/releases/latest/download/app-release.apk",
+  "category": "Comida y bebida",
   "isFeatured": true,
   "screenshots": [
-    "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto1.png",
-    "https://raw.githubusercontent.com/TU_USUARIO/app-super-calc/main/foto2.png"
+    "https://raw.githubusercontent.com/omegaone545/OneBite/main/primera.png",
+    "https://raw.githubusercontent.com/omegaone545/OneBite/main/segunda.png",
+    "https://raw.githubusercontent.com/omegaone545/OneBite/main/tercera.png",
+    "https://raw.githubusercontent.com/omegaone545/OneBite/main/cuarta.png"
   ],
-  "whatsNew": "• Nuevo modo A Cocinar con voz integrada: la app ahora puede leer los pasos de las recetas automáticamente.\n• Añadido control por voz para avanzar entre pasos sin tocar el dispositivo.\n• Nueva función de carpetas para organizar recetas favoritas de forma personalizada.\n• Mejoras de rendimiento y experiencia de usuario."
+  "whatsNew": "• Nuevo modo Cocinar con lectura automática de pasos.\n• Control por voz para avanzar recetas sin tocar el móvil.\n• Carpetas personalizadas para organizar recetas favoritas.\n• Mejoras de rendimiento y experiencia de usuario."
 }
